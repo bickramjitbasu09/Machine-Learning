@@ -1,5 +1,5 @@
 # ML-projects
-Machine Learning Projects
+Conatins work related to machine learning
 
 ## Repo includes these -
  * Projects on Human Resource domain 
