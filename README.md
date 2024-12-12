@@ -7,5 +7,4 @@ Machine Learning Projects
  * Metro Traffic Volume project
  * House Price Prediction project
  * RFM Analysis project
- * How to do serverless deplyment on IBM cloud code engine(document)
  * case study
